@@ -1,0 +1,286 @@
+#EXTM3U
+############################################################################################################################## Canais Abertos
+#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-logo="http://img.miptv.ws/Globo.png" grop-title="CANAIS ABERTOS",GLOBO NORDESTE
+#EXTINF:-1 tvg-id="GLOBO RIO" tvg-logo="http://img.miptv.ws/Globo.png" grop-title="CANAIS ABERTOS",GLOBO RIO
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="http://img.miptv.ws/Globo.png" grop-title="CANAIS ABERTOS",GLOBO SP
+#EXTINF:-1 tvg-id="GLOBO DF" tvg-logo="http://img.miptv.ws/Globo.png" grop-title="CANAIS ABERTOS",GLOBO Brasília
+#EXTINF:-1 tvg-id="GLOBO MG" tvg-logo="http://img.miptv.ws/Globo.png" grop-title="CANAIS ABERTOS",GLOBO Minas
+#EXTINF:-1 tvg-id="Sbt.BR" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="CANAIS ABERTOS",SBT 
+#EXTINF:-1 tvg-id="Sbt.DF" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="CANAIS ABERTOS",SBT Brasília
+#EXTINF:-1 tvg-id="Sbt.Central" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="CANAIS ABERTOS",SBT Central
+#EXTINF:-1 tvg-id="Sbt.SP" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="CANAIS ABERTOS",SBT Interior SP
+#EXTINF:-1 tvg-id="Sbt.MS" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="CANAIS ABERTOS",SBT MS
+#EXTINF:-1 tvg-id="Sbt.Pará" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="CANAIS ABERTOS",SBT Pará
+#EXTINF:-1 tvg-id="Sbt.Ribeirão" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="CANAIS ABERTOS",SBT Ribeirão
+#EXTINF:-1 tvg-id="Sbt.Rio" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="CANAIS ABERTOS",SBT Rio
+#EXTINF:-1 tvg-id="Sbt.RS" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="CANAIS ABERTOS",SBT RS
+#EXTINF:-1 tvg-id="Sbt.SC" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="CANAIS ABERTOS",SBT SC
+#EXTINF:-1 tvg-id="Sbt.Vale" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="CANAIS ABERTOS",SBT Vale
+#EXTINF:-1 tvg-id="RecordTV" tvg-logo="https://goo.gl/A15UfQ" group-title="CANAIS ABERTOS",RecordTV
+#EXTINF:-1 tvg-id="RecordTV.Belém" tvg-logo="https://goo.gl/A15UfQ" group-title="CANAIS ABERTOS",RecordTV Belém
+#EXTINF:-1 tvg-id="RecordTV." tvg-logo="https://goo.gl/A15UfQ" group-title="CANAIS ABERTOS",RecordTV Brasília
+#EXTINF:-1 tvg-id="RecordTV.Goias" tvg-logo="https://goo.gl/A15UfQ" group-title="CANAIS ABERTOS",RecordTV Goias
+#EXTINF:-1 tvg-id="RecordTV,Int. SP" tvg-logo="https://goo.gl/A15UfQ" group-title="CANAIS ABERTOS",RecordTV Interior SP
+#EXTINF:-1 tvg-id="RecordTV.Itapoan" tvg-logo="https://goo.gl/A15UfQ" group-title="CANAIS ABERTOS",RecordTV Itapoan
+#EXTINF:-1 tvg-id="RecordTV. Litoral" tvg-logo="https://goo.gl/A15UfQ" group-title="CANAIS ABERTOS",RecordTV Litoral &amp; Vale
+#EXTINF:-1 tvg-id="RecordTV.MG" tvg-logo="https://goo.gl/A15UfQ" group-title="CANAIS ABERTOS",RecordTV Minas
+#EXTINF:-1 tvg-id="RecordTV.Paulista" tvg-logo="https://goo.gl/A15UfQ" group-title="CANAIS ABERTOS",RecordTV Paulista
+#EXTINF:-1 tvg-id="RecordTV.Rio" tvg-logo="https://goo.gl/A15UfQ" group-title="CANAIS ABERTOS",RecordTV Rio
+#EXTINF:-1 tvg-id="RecordTV.RS" tvg-logo="https://goo.gl/A15UfQ" group-title="CANAIS ABERTOS",RecordTV RS
+#EXTINF:-1 tvg-id="Rede" tvg-logo="http://logok.org/wp-content/uploads/2014/11/RED-logo-350x302.png" group-title="CANAIS ABERTOS",Rede 21
+#EXTINF:-1 tvg-id="Rede" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/46/Rede_Amaz%C3%B4nica.jpg" group-title="CANAIS ABERTOS",Rede Amazônica Boa Vista
+#EXTINF:-1 tvg-id="Rede" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/46/Rede_Amaz%C3%B4nica.jpg" group-title="CANAIS ABERTOS",Rede Amazônica Macapá
+#EXTINF:-1 tvg-id="Rede" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/46/Rede_Amaz%C3%B4nica.jpg" group-title="Rede Amazônica Manaus
+#EXTINF:-1 tvg-id="Rede" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/46/Rede_Amaz%C3%B4nica.jpg" group-title="CANAIS ABERTOS",Rede Amazônica Porto Velho
+#EXTINF:-1 tvg-id="Rede" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/46/Rede_Amaz%C3%B4nica.jpg" group-title="Rede Amazônica Rio Branco
+#EXTINF:-1 tvg-id="Rede" tvg-logo="http://infoguiacristao.com.br/empresas/wp-content/uploads/REDE-BEN%C3%87%C3%83O-ID-250x150.jpg" group-title="Rede Benção
+#EXTINF:-1 tvg-id="Rede" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/37/Logo_Rede_Brasil.png" group-title="Rede Brasil
+#EXTINF:-1 tvg-id="Rede" tvg-logo="https://goo.gl/xAd52U" group-title="CANAIS ABERTOS",Rede Clube
+#EXTINF:-1 tvg-id="Rede" tvg-logo="https://goo.gl/2Av8bW" group-title="CANAIS ABERTOS",Rede Cultura do Pará
+#EXTINF:-1 tvg-id="Rede" tvg-logo="https://img13.androidappsapk.co/300/c/e/d/appinventor.ai_playadler.redexproject.png" group-title="CANAIS ABERTOS",Rede Dois
+#EXTINF:-1 tvg-id="Rede" tvg-logo="https://goo.gl/o1FsCU" group-title="CANAIS ABERTOS",Rede Estação
+#EXTINF:-1 tvg-id="Rede" tvg-logo="https://goo.gl/AfkWwz" group-title="CANAIS ABERTOS",Rede Família
+#EXTINF:-1 tvg-id="Rede" tvg-logo="https://goo.gl/2DChBT" group-title="CANAIS ABERTOS",Rede Gênesis
+#EXTINF:-1 tvg-logo="https://goo.gl/2FgwHa" group-title="CANAIS ABERTOS",Rede TV
+#EXTINF:-1 type="stream" tvg-id="CANAL RURAL" tvg-logo="https://goo.gl/79ERgG" group-title="CANAIS ABERTOS",Canal Rural
+#EXTINF:-1 type="stream" tvg-id="Canção nova" tvg-logo="https://goo.gl/RPSkGj" group-title="CANAIS ABERTOS",Canção nova
+#EXTINF:-1 type="stream" tvg-id="Gazeta HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/68/TV_Gazeta_AL.png" group-title="CANAIS ABERTOS",Gazeta HD
+
+###################################################################################################################### NEWS
+
+#EXTINF:-1 tvg-id="GLOBONEWS" tvg-logo="http://img.miptv.ws/GloboNews.png" grop-title="NOTICIAS",GLOBONEWS
+#EXTINF:-1 tvg-logo="https://goo.gl/dpUYWX" group-title="NOTICIAS",Band News
+#EXTINF:-1 tvg-id="Sbt.Vale" tvg-logo="https://goo.gl/DuXJFC" group-title="NOTÍCIAS",Record News
+#EXTINF:-1 tvg-id="Sbt.Vale" tvg-logo="https://goo.gl/DuXJFC" group-title="NOTÍCIAS",Record News SC
+#EXTINF:-1 type="stream" tvg-id="BBC World" tvg-logo="https://goo.gl/RRw8eg" group-title="Notícia",BBC World News
+
+################################################################################################################# Documentarios
+
+#EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-logo="https://goo.gl/DyctLk" grop-title="DOCUMENTARIOS",ANIMAL PLANET
+#EXTINF:-1 tvg-id="HISTORY" tvg-logo="http://img.miptv.ws/History.png" grop-title="DOCUMENTARIOS",HISTORY
+#EXTINF:-1 tvg-id="H2" tvg-logo="http://img.miptv.ws/H2.png" grop-title="DOCUMENTARIOS",H2
+#EXTINF:-1 type="stream" tvg-id="Discovery Channel" tvg-logo="https://goo.gl/wfkVcX" group-title="Documentario",Discovery Channel
+#EXTINF:-1 type="stream" tvg-id="Discovery Channel HD" tvg-logo="https://goo.gl/D91c4x" group-title="Documentario",Discovery Channel HD
+#EXTINF:-1 tvg-id="ID" tvg-logo="http://img.miptv.ws/ID.png" grop-title="DOCUMENTARIOS",ID - INVESTIGAÇÃO DISCOVERY
+#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-logo="https://goo.gl/images/xFpXg4" grop-title="DOCUMENTARIOS",DISCOVERY TURBO
+#EXTINF:-1 type="stream" tvg-id="Discovery Turbo HD" tvg-logo="https://goo.gl/z77x3g group-title="Documentario",Discovery Turbo HD
+#EXTINF:-1 tvg-id="DISCOVERY THEATER HD" tvg-logo="https://goo.gl/fHiHzh" group-title="DOCUMENTARIOS",DISCOVERY THEATER HD
+#EXTINF:-1 type="stream" tvg-id="Discovery World HD" tvg-logo="https://goo.gl/VfCe1p group-title="Documentario",Discovery World HD
+#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-logo="https://goo.gl/YVA8oR" group-title="DOCUMENTARIOS",NAT GEO WILD HD
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-logo="https://goo.gl/UF4HMj" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC 
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-logo="https://goo.gl/icqGxB" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE
+#EXTINF:-1 type="stream" tvg-id="Discovery Theater HD" tvg-logo="https://goo.gl/KHQEB6" group-title="Documentario",Discovery Theater HD
+######################################################################################################################### Infantis
+
+#EXTINF:-1 type="stream" tvg-id="Disney HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" group-title="Infantil",Disney HD
+#EXTINF:-1 tvg-id="DISNEY KIDS" tvg-logo="https://goo.gl/J34Goc" group-title="INFANTIL",Discovery Kids
+#EXTINF:-1 tvg-id="DISNEY KIDS" tvg-logo="https://goo.gl/XNii1F" group-title="INFANTIL",Discovery Kids HD
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://goo.gl/qYyAzh" group-title="INFANTIL",Disney Channel
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://goo.gl/fYiUq1" group-title="INFANTIL",Disney Channel HD
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JR HD" tvg-logo="" group-title="Infantil",DISNEY JR
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD" tvg-logo="https://goo.gl/ww8gmK" group-title="Infantil",Disney XD
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="DISNEY XD" tvg-logo="https://goo.gl/MwbLmM" group-title="Infantil",Boomerang
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="DISNEY XD" tvg-logo="https://goo.gl/2V5Pd6" group-title="Infantil",Baby TV
+#EXTINF:-1 type="stream" tvg-id="Gloob" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_GLOOB.png" group-title="Infantil",Gloob
+#EXTINF:-1 type="stream" tvg-id="Gloob HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_GLOOB.png" group-title="Infantil",Gloob HD
+#EXTINF:-1 type="stream" tvg-id="Cartoon Network" tvg-logo="https://goo.gl/8PhCv1" group-title="Infantil",Cartoon Network
+
+######################################################################################################################### Filmes e Series
+
+
+#EXTINF:-1 type="stream" tvg-id="AMC" tvg-logo="" group-title="FILMES/SERIES,AMC
+#EXTINF:-1 tvg-id="FX" tvg-id="FX" tvg-logo="http://img.miptv.ws/FX.png" grop-title="FILMES/SERIES",FX
+#EXTINF:-1 tvg-id="FX HD" tvg-logo="http://img.miptv.ws/FX.png" grop-title="FILMES/SERIES",FX HD
+#EXTINF:-1 tvg-id="SONY HD" tvg-logo="http://img.miptv.ws/Canal_Sony.png" grop-title="FILMES/SERIES",SONY HD
+#EXTINF:-1 type="stream" tvg-id="Cinemax" tvg-logo="https://goo.gl/7CbTsa" group-title="Filme e Serie",Cinemax
+
+#EXTINF:-1 tvg-id="TELECINE ACTION HD" tvg-logo="http://s9.postimg.org/vd00n5o4b/telecineaction.png" group-title="FILMES/SERIES",TELECINE ACTION HD
+#EXTINF:-1 tvg-id="TNT" tvg-logo="http://s21.postimg.org/wv3r1264z/tnt.png" group-title="Filmes e Séries",TNT
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-logo="https://goo.gl/M1meJj" group-title="FILMES E SERIES", Megapix
+#EXTINF:-1 tvg-id="SPACE" tvg-logo="https://goo.gl/2z55wX" group-title="FILMES E SERIES", Space
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="https://goo.gl/LhFy55" group-title="FILMES E SERIES",Warner Channel
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-logo="https://goo.gl/UbiHtL" group-title="FILMES E SERIES",Paramount Channel
+#EXTINF:-1 tvg-id="SYFY" tvg-logo="https://goo.gl/EFM7Lb" group-title="FILMES E SERIES",SyFy
+#EXTINF:-1 tvg-id="TBS" tvg-logo="https://goo.gl/cra8mm" group-title="FILMES E SERIES",TBS
+#EXTINF:-1 tvg-id="TCM" tvg-logo="https://goo.gl/W2pSWe" group-title="FILMES E SERIES",TCM
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://goo.gl/y19zNk" group-title="FILMES E SERIES",Telecine Pipoca HD
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://goo.gl/RMHUX7" group-title="FILMES E SERIES",Telecine Fun
+#EXTINF:-1 tvg-id="TOUCH HD" tvg-logo="https://goo.gl/XngFPr" group-title="FILMES E SERIES",Telecine Touch HD
+
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="https://goo.gl/rDX9zX" group-title="Filmes e Series",Telecine Premium
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="https://goo.gl/rDX9zX" group-title="Filmes e Series",Telecine Premium HD
+
+#EXTINF:-1 type="stream" tvg-id="Fox" tvg-logo="https://espalhafactos.com/wp-content/uploads/2014/04/fox_me.png" group-title="Filme e Serie",Fox
+#EXTINF:-1 tvg-id="Fox" tvg-logo="https://goo.gl/j5xbUq" group-title="Filmes e Series",FOX HD
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://goo.gl/ogY5KL" group-title="FILMES E SERIES",Telecine Cult
+#EXTINF:-1 tvg-id="TRUTV" tvg-logo="https://goo.gl/4DbCCP" group-title="FILMES E SERIES",TruTV
+#EXTINF:-1 tvg-id="TV ILHA DO SOL" tvg-logo="https://goo.gl/k1WhdQ" group-title="FILMES E SERIES",TV Ilha do Sol
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://img.miptv.ws/HBO.png" grop-title="FILMES/SERIES",HBO
+#EXTINF:-1 tvg-logo="https://goo.gl/MyuWDf" group-title="FILMES E SERIES",HBO 2
+#EXTINF:-1 tvg-id="HOB FAMILILY" tvg-logo="https://goo.gl/GPajb1" group-title="FILMES E SERIES",HBO Family
+#EXTINF:-1 tvg-id="HBO PLUS HD" tvg-logo="https://goo.gl/EcND66" group-title="FILMES E SERIES",HBO Plus
+#EXTINF:-1 tvg-id="HBO PLUS HD" tvg-logo="https://goo.gl/EcND66" group-title="FILMES E SERIES",HBO Plus HD
+#EXTINF:-1 type="stream" tvg-id="HBO Signature" tvg-logo="https://goo.gl/NXN13M" group-title="FILMES E SERIES",HBO Signature
+#EXTINF:-1 tvg-logo="https://goo.gl/VsfwU7" group-title="FILMES E SERIES",HBO Signature HD
+#EXTINF:-1 tvg-logo="https://goo.gl/92K1gh" group-title="FILMES E SERIES",Max
+#EXTINF:-1 type="stream" tvg-id="Max HD" tvg-logo="https://goo.gl/qVTUex" group-title="FILMES E SERIES",MAX HD
+#EXTINF:-1 tvg-logo="https://goo.gl/ZSftfh" group-title="FILMES E SERIES",Max Prime
+#EXTINF:-1 type="stream" tvg-id="AXN" tvg-logo="https://goo.gl/RZ5Mw6" group-title="FILMES E SERIES",AXN
+#EXTINF:-1 type="stream" tvg-id="AXN HD" tvg-logo="https://goo.gl/FeBEZL" group-title="FILMES E SERIES",AXN HD
+#EXTINF:-1 type="stream" tvg-id="CANAL BRASIL HD" tvg-logo="https://goo.gl/4QBXzS" group-title="FILMES E SERIES",Canal Brasil HD
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="http://img.miptv.ws/Comedy_Central.png" grop-title="FILMES E SERIES",COMEDY CENTRAL
+
+############################################################################################  VARIEDADES
+
+#EXTINF:-1 tvg-logo="https://goo.gl/oXkeT6" group-title="VARIEDADES",Canal Brasil
+#EXTINF:-1 tvg-logo="https://goo.gl/wU1CXd" group-title="VARIEDADES",OFF HD
+#EXTINF:-1 tvg-logo="https://goo.gl/ef1FPv" group-title="VARIEDADES",E!
+#EXTINF:-1 type="stream" tvg-id="E! HD" tvg-logo="https://goo.gl/DXNSvx" group-title="Variedade",E! HD
+#EXTINF:-1 tvg-logo="https://goo.gl/GcbVgv" group-title="VARIEDADES",GNT
+#EXTINF:-1 type="stream" tvg-id="GNT HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_GNT.png" group-title="Variedade",GNT HD
+#EXTINF:-1 tvg-logo="https://goo.gl/uS5SnG" group-title="VARIEDADES",Multishow
+#EXTINF:-1 tvg-logo="https://goo.gl/2Ufh94" group-title="VARIEDADES",RMTV
+#EXTINF:-1 tvg-logo="https://goo.gl/nYcKFH" group-title="VARIEDADES",Mais GloboSat
+#EXTINF:-1 tvg-logo="https://goo.gl/Qx44F8" group-title="VARIEDADES",TLC
+#EXTINF:-1 tvg-logo="https://goo.gl/otUREx" group-title="VARIEDADES",Viva
+#EXTINF:-1 tvg-logo="https://goo.gl/UzBGnb" group-title="VARIEDADES", Woohoo
+#EXTINF:-1 type="stream" tvg-id="Arte 1 " tvg-logo="https://goo.gl/4Kir2o" group-title="VARIEDADES",Arte 1 
+#EXTINF:-1 type="stream" tvg-id="CURTA!" tvg-logo="https://goo.gl/NTN1sa" group-title="Variedade",Curta!
+#EXTINF:-1 type="stream" tvg-id="Fish TV" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_FISH_TV.png" group-title="VARIEDADES",Fish TV
+#EXTINF:-1 type="stream" tvg-id="Food Network" tvg-logo="https://goo.gl/VBTN5V" group-title="VARIEDADES",Food Network
+#EXTINF:-1 type="stream" tvg-id="Fox Life" tvg-logo="http://tudotv.tv/fotos/5807afe3ec8303344ee73b8df61bf4a9.png" group-title="Variedade",Fox Life
+
+
+############################################################################################  Esportes
+
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/zcwx1096x/Spor_TV.png" group-title="Esportes",SporTV
+#EXTINF:-1 tvg-id="SPORTV 2 HD" tvg-logo="https://s20.postimg.org/lomflg27h/sportv2.jpg" grop-title="ESPORTES",SPORTV 2 HD 
+#EXTINF:-1 tvg-logo="https://goo.gl/tsyebc" group-title="ESPORTES",SporTV 3
+#EXTINF:-1 tvg-logo="https://goo.gl/TLbZSe" group-title="Esportes",Esporte Interativo
+#EXTINF:-1 type="stream" tvg-id="Esporte Interativo 2" tvg-logo="https://goo.gl/1jm13u" group-title="ESPORTES",Esporte Interativo 2
+#EXTINF:-1 type="stream" tvg-id="EI MAXX" tvg-logo="https://goo.gl/w6SRz2" group-title="ESPORTES",EI Maxx
+#EXTINF:-1 type="stream" tvg-id="EI MAXX HD" tvg-logo="https://goo.gl/1ad4xN" group-title="ESPORTES",EI Maxx HD
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-logo="https://goo.gl/HELSNf" grop-title="ESPORTES",ESPN BRASIL
+#EXTINF:-1 tvg-logo="https://goo.gl/mgWtSF" group-title="ESPORTES",ESPN BRASIL
+#EXTINF:-1 type="stream" tvg-id="ESPN+ HD" tvg-logo="https://goo.gl/Uytxxu" group-title="ESPORTES",ESPN+ HD
+#EXTINF:-1 type="stream" tvg-id="Espn HD" tvg-logo="https://goo.gl/o6vyxv" group-title="ESPORTES",ESPN HD
+#EXTINF:-1 type="stream" tvg-id="Band Sports" tvg-logo="https://goo.gl/9h1Xob" group-title="ESPORTES",Band Sports
+#EXTINF:-1 type="stream" tvg-id="Band Sports HD" tvg-logo="https://goo.gl/GWgNbm" group-title="ESPORTES",Band Sports HD
+#EXTINF:-1 type="stream" tvg-id="Combate" tvg-logo="https://goo.gl/HWF1Na" group-title="ESPORTES",Combate
+#EXTINF:-1 type="stream" tvg-id="Combate HD" tvg-logo="http://img.miptv.ws/Combate.png" group-title="ESPORTES",Combate HD
+#EXTINF:-1 type="stream" tvg-id="Fox Sports" tvg-logo="http://www.bastidoresdatv.com.br/wp-content/uploads/2014/03/Fox.png" group-title="Esporte",Fox Sports
+#EXTINF:-1 type="stream" tvg-id="Fox Sports 2" tvg-logo="https://goo.gl/ccou7v" group-title="ESPORTES",Fox Sports 2
+
+
+
+################################################################################# Sound!
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 70 
+http://192.99.150.31:8241/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 80 
+http://192.99.150.31:8697/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 90 
+http://192.99.150.31:8056/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 2000 
+http://6d9a.webradio.upx.net.br:9940/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",AxÃ© 
+http://192.99.150.31:8305/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Bossa Nova 
+http://6d9a.webradio.upx.net.br:9974/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Brega 
+http://192.99.150.31:9007/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",EletrÃ´nica 
+http://192.99.150.31:9095/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Festa 
+http://6d9a.webradio.upx.net.br:9070/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",ForrÃ³ 
+http://192.99.150.31:9019/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Funk 
+http://192.99.150.31:9089/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Gospel 
+http://192.99.150.31:9101/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Hip Hop 
+http://192.99.150.31:8721/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",HISTORINHA INFANTIL 
+http://192.99.150.31:8371/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Jazz 
+http://192.99.150.31:8042/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Kids 
+http://192.99.150.31:9431/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Lounge 
+http://6d9a.webradio.upx.net.br:9064/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Metal 
+http://6d9a.webradio.upx.net.br:9898/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",MPB 
+http://192.99.150.31:8775/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",MÃºsica ClÃ¡ssica 
+http://6d9a.webradio.upx.net.br:9970/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",New Rock 
+http://6d9a.webradio.upx.net.br:8028/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Pagode 
+http://6d9a.webradio.upx.net.br:9061/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Pop Hits 
+http://6d9a.webradio.upx.net.br:9046/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Pop Rock 
+http://6d9a.webradio.upx.net.br:8016/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Rap Nacional 
+http://192.99.150.31:8377/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Reggae 
+http://192.99.150.31:8715/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",ROBERTO CARLOS 
+http://192.99.150.31:9137/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Rock Brasil 
+http://14923.live.streamtheworld.com/CIDADEROCKBRASILAAC?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Rock ClÃ¡ssico 
+http://192.99.150.31:9125/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",RomÃ¢nticas 
+http://192.99.150.31:8962/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Sertanejo 
+http://192.99.150.31:9485/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Sertanejo UniversitÃ¡rio 
+http://192.99.150.31:9191/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", STUDIO DO AMOR 
+http://192.99.150.31:8962/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Trilhas Sonoras 
+http://6d9a.webradio.upx.net.br:9896/stream?
+
+
+
+
+
+
+
