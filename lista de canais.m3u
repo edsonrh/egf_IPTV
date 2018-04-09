@@ -54,7 +54,6 @@
 #EXTINF:-1 tvg-id="HISTORY" tvg-logo="http://img.miptv.ws/History.png" grop-title="DOCUMENTARIOS",HISTORY
 #EXTINF:-1 tvg-id="H2" tvg-logo="http://img.miptv.ws/H2.png" grop-title="DOCUMENTARIOS",H2
 #EXTINF:-1 type="stream" tvg-id="Discovery Channel" tvg-logo="https://goo.gl/wfkVcX" group-title="Documentario",Discovery Channel
-#EXTINF:-1 type="stream" tvg-id="Discovery Channel HD" tvg-logo="https://goo.gl/D91c4x" group-title="Documentario",Discovery Channel HD
 #EXTINF:-1 tvg-id="ID" tvg-logo="http://img.miptv.ws/ID.png" grop-title="DOCUMENTARIOS",ID - INVESTIGAÇÃO DISCOVERY
 #EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-logo="https://goo.gl/images/xFpXg4" grop-title="DOCUMENTARIOS",DISCOVERY TURBO
 #EXTINF:-1 type="stream" tvg-id="Discovery Turbo HD" tvg-logo="https://goo.gl/z77x3g group-title="Documentario",Discovery Turbo HD
@@ -66,15 +65,12 @@
 #EXTINF:-1 type="stream" tvg-id="Discovery Theater HD" tvg-logo="https://goo.gl/KHQEB6" group-title="Documentario",Discovery Theater HD
 #EXTINF:-1 type="stream" tvg-id="Disney HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" group-title="Infantil",Disney HD
 #EXTINF:-1 tvg-id="DISNEY KIDS" tvg-logo="https://goo.gl/J34Goc" group-title="INFANTIL",Discovery Kids
-#EXTINF:-1 tvg-id="DISNEY KIDS" tvg-logo="https://goo.gl/XNii1F" group-title="INFANTIL",Discovery Kids HD
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://goo.gl/qYyAzh" group-title="INFANTIL",Disney Channel
-#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://goo.gl/fYiUq1" group-title="INFANTIL",Disney Channel HD
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JR HD" tvg-logo="" group-title="Infantil",DISNEY JR
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD" tvg-logo="https://goo.gl/ww8gmK" group-title="Infantil",Disney XD
 #EXTINF:-1 tvg-id="BOOMERANG" tvg-name="DISNEY XD" tvg-logo="https://goo.gl/MwbLmM" group-title="Infantil",Boomerang
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="DISNEY XD" tvg-logo="https://goo.gl/2V5Pd6" group-title="Infantil",Baby TV
 #EXTINF:-1 type="stream" tvg-id="Gloob" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_GLOOB.png" group-title="Infantil",Gloob
-#EXTINF:-1 type="stream" tvg-id="Gloob HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_GLOOB.png" group-title="Infantil",Gloob HD
 #EXTINF:-1 type="stream" tvg-id="Cartoon Network" tvg-logo="https://goo.gl/8PhCv1" group-title="Infantil",Cartoon Network
 #EXTINF:-1 type="stream" tvg-id="AMC" tvg-logo="" group-title="FILMES/SERIES,AMC
 #EXTINF:-1 tvg-id="FX" tvg-id="FX" tvg-logo="http://img.miptv.ws/FX.png" grop-title="FILMES/SERIES",FX
@@ -145,7 +141,6 @@
 #EXTINF:-1 type="stream" tvg-id="Band Sports" tvg-logo="https://goo.gl/9h1Xob" group-title="ESPORTES",Band Sports
 #EXTINF:-1 type="stream" tvg-id="Band Sports HD" tvg-logo="https://goo.gl/GWgNbm" group-title="ESPORTES",Band Sports HD
 #EXTINF:-1 type="stream" tvg-id="Combate" tvg-logo="https://goo.gl/HWF1Na" group-title="ESPORTES",Combate
-#EXTINF:-1 type="stream" tvg-id="Combate HD" tvg-logo="http://img.miptv.ws/Combate.png" group-title="ESPORTES",Combate HD
 #EXTINF:-1 type="stream" tvg-id="Fox Sports" tvg-logo="http://www.bastidoresdatv.com.br/wp-content/uploads/2014/03/Fox.png" group-title="Esporte",Fox Sports
 #EXTINF:-1 type="stream" tvg-id="Fox Sports 2" tvg-logo="https://goo.gl/ccou7v" group-title="ESPORTES",Fox Sports 2
 
