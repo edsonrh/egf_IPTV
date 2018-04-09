@@ -108,7 +108,6 @@
 #EXTINF:-1 tvg-logo="https://goo.gl/ZSftfh" group-title="FILMES E SERIES",Max Prime
 #EXTINF:-1 type="stream" tvg-id="AXN" tvg-logo="https://goo.gl/RZ5Mw6" group-title="FILMES E SERIES",AXN
 #EXTINF:-1 type="stream" tvg-id="AXN HD" tvg-logo="https://goo.gl/FeBEZL" group-title="FILMES E SERIES",AXN HD
-#EXTINF:-1 type="stream" tvg-id="CANAL BRASIL HD" tvg-logo="https://goo.gl/4QBXzS" group-title="FILMES E SERIES",Canal Brasil HD
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="http://img.miptv.ws/Comedy_Central.png" grop-title="FILMES E SERIES",COMEDY CENTRAL
 #EXTINF:-1 tvg-logo="https://goo.gl/oXkeT6" group-title="VARIEDADES",Canal Brasil
 #EXTINF:-1 tvg-logo="https://goo.gl/wU1CXd" group-title="VARIEDADES",OFF HD
@@ -143,9 +142,555 @@
 #EXTINF:-1 type="stream" tvg-id="Combate" tvg-logo="https://goo.gl/HWF1Na" group-title="ESPORTES",Combate
 #EXTINF:-1 type="stream" tvg-id="Fox Sports" tvg-logo="http://www.bastidoresdatv.com.br/wp-content/uploads/2014/03/Fox.png" group-title="Esporte",Fox Sports
 #EXTINF:-1 type="stream" tvg-id="Fox Sports 2" tvg-logo="https://goo.gl/ccou7v" group-title="ESPORTES",Fox Sports 2
-
-
-
+#EXTINF:-1 tvg-logo="https://goo.gl/tNjwwZ" group-title="DESENHOS",A Formiga e o Tamanduá – Dublado – Episódio 01 – A Formiga faz um piquenique e tenta relaxar, mas o Tamanduá aparece e tenta comê-la 
+http://www.blogger.com/video-play.mp4?contentId=3deb4292e9a8ebf5
+#EXTINF:-1 tvg-logo="https://goo.gl/tNjwwZ" group-title="DESENHOS",A Formiga e o Tamanduá – Dublado – Episódio 02 – Picnic Frustado 
+http://www.blogger.com/video-play.mp4?contentId=e5e97672fb77106e
+#EXTINF:-1 tvg-logo="https://goo.gl/tNjwwZ" group-title="DESENHOS",A Formiga e o Tamanduá – Dublado – Episódio 03 – Tia Formiga 
+http://www.blogger.com/video-play.mp4?contentId=5a95df362257b3a0
+#EXTINF:-1 tvg-logo="https://goo.gl/tNjwwZ" group-title="DESENHOS",A Formiga e o Tamanduá – Dublado – Episódio 04 – Essa Formiga é Minha 
+http://www.blogger.com/video-play.mp4?contentId=85e15bb2d373ff80
+#EXTINF:-1 tvg-logo="https://goo.gl/tNjwwZ" group-title="DESENHOS",A Formiga e o Tamanduá – Dublado – Episódio 05 – Alta Tecnologia 
+http://www.blogger.com/video-play.mp4?contentId=42b58e080590b993
+#EXTINF:-1 tvg-logo="https://goo.gl/tNjwwZ" group-title="DESENHOS",A Formiga e o Tamanduá – Dublado – Episódio 06 – Não se meta com a Formiga 
+http://www.blogger.com/video-play.mp4?contentId=302429cbb43599a1
+#EXTINF:-1 tvg-logo="https://goo.gl/tNjwwZ" group-title="DESENHOS",A Formiga e o Tamanduá – Dublado – Episódio 07 – Tamanduá Vira-Latas
+http://www.blogger.com/video-play.mp4?contentId=b2ed32accfd8c473 
+#EXTINF:-1 tvg-logo="https://goo.gl/tNjwwZ" group-title="DESENHOS",A Formiga e o Tamanduá – Dublado – Episódio 08 – Ilha das Formigas 
+http://www.blogger.com/video-play.mp4?contentId=38a76346d626d30f
+#EXTINF:-1 tvg-logo="https://goo.gl/tNjwwZ" group-title="DESENHOS",A Formiga e o Tamanduá – Dublado – Episódio 09 – Amigo Tigro 
+http://www.blogger.com/video-play.mp4?contentId=b801c92f13294b25
+#EXTINF:-1 tvg-logo="https://goo.gl/tNjwwZ" group-title="DESENHOS",A Formiga e o Tamanduá – Dublado – Episódio 10 – Tamanduá vs. Tamanduá 
+http://www.blogger.com/video-play.mp4?contentId=658ec7ae1da6e39d
+#EXTINF:-1 tvg-logo="https://goo.gl/tNjwwZ" group-title="DESENHOS",A Formiga e o Tamanduá – Dublado – Episódio 11 – Espaguete de Formigas 
+http://www.blogger.com/video-play.mp4?contentId=f39f519da77f089c
+#EXTINF:-1 tvg-logo="https://goo.gl/tNjwwZ" group-title="DESENHOS",A Formiga e o Tamanduá – Dublado – Episódio 12 – Friçcão Científica 
+http://www.blogger.com/video-play.mp4?contentId=c71307b61bd0c67
+#EXTINF:-1 tvg-logo="https://goo.gl/tNjwwZ" group-title="DESENHOS",A Formiga e o Tamanduá – Dublado – Episódio 13 – Irmãos da Floresta
+http://www.blogger.com/video-play.mp4?contentId=a687147a350213c6 
+#EXTINF:-1 tvg-logo="https://goo.gl/tNjwwZ" group-title="DESENHOS",A Formiga e o Tamanduá – Dublado – Episódio 14 – Tamanduá Congelado
+http://www.blogger.com/video-play.mp4?contentId=2231844b704690a6 
+#EXTINF:-1 tvg-logo="https://goo.gl/tNjwwZ" group-title="DESENHOS",A Formiga e o Tamanduá – Dublado – Episódio 15 – Cuidado com a Formiga Musculosa 
+http://www.blogger.com/video-play.mp4?contentId=8f9d610f48528d95
+#EXTINF:-1 tvg-logo="https://goo.gl/tNjwwZ" group-title="DESENHOS",A Formiga e o Tamanduá – Dublado – Episódio 16 – O Cupim e a Formiga 
+http://www.blogger.com/video-play.mp4?contentId=3bd90c7222a76bb0
+#EXTINF:-1 tvg-logo="https://goo.gl/tNjwwZ" group-title="DESENHOS",A Formiga e o Tamanduá – Dublado – Episódio 17 – Tamanduá Azarado 
+http://www.blogger.com/video-play.mp4?contentId=fe5e5991c7eca99a
+#EXTINF:-1 tvg-logo="https://goo.gl/2Y5stt" group-title="DESENHOS",Aquaman – Dublado – Episódio 01 – Piloto 
+http://www.blogger.com/video-play.mp4?contentId=ae48f156d703e643
+#EXTINF:-1 tvg-logo="https://goo.gl/2Y5stt" group-title="DESENHOS",Aquaman – Dublado – Episódio 02 – Aquaman soberano dos mares 
+http://www.blogger.com/video-play.mp4?contentId=27a31886b96724a2
+#EXTINF:-1 tvg-logo="https://goo.gl/2Y5stt" group-title="DESENHOS",Aquaman – Dublado – Episódio 03 – Ameaça da Manta negra 
+http://www.blogger.com/video-play.mp4?contentId=c4add4373a8f4e2c
+#EXTINF:-1 tvg-logo="https://goo.gl/2Y5stt" group-title="DESENHOS",Aquaman – Dublado – Episódio 04 – Os homens enlouquecidos de réptil 
+http://www.blogger.com/video-play.mp4?contentId=f45a763b358d94ea
+#EXTINF:-1 tvg-logo="https://goo.gl/2Y5stt" group-title="DESENHOS",Aquaman – Dublado – Episódio 05 – O retorno de Nepto
+http://www.blogger.com/video-play.mp4?contentId=cdf2ae8bf3ad891 
+#EXTINF:-1 tvg-logo="https://goo.gl/2Y5stt" group-title="DESENHOS",Aquaman – Dublado – Episódio 06 – Os invasores ardentes 
+http://www.blogger.com/video-play.mp4?contentId=2df4070b688bc732
+#EXTINF:-1 tvg-logo="https://goo.gl/2Y5stt" group-title="DESENHOS",Aquaman – Dublado – Episódio 07 – Os piratas do mar 
+http://www.blogger.com/video-play.mp4?contentId=3ee8080f150ca6f7
+#EXTINF:-1 tvg-logo="https://goo.gl/2Y5stt" group-title="DESENHOS",Aquaman – Dublado – Episódio 08 – Guerra dos mundos de água 
+http://www.blogger.com/video-play.mp4?contentId=7c99c57a0a7c8993
+#EXTINF:-1 tvg-logo="https://goo.gl/2Y5stt" group-title="DESENHOS",Aquaman – Dublado – Episódio 09 – O monstro vulcânico 
+http://www.blogger.com/video-play.mp4?contentId=ae9fbc3d9372bc01
+#EXTINF:-1 tvg-logo="https://goo.gl/2Y5stt" group-title="DESENHOS",Aquaman – Dublado – Episódio 10 – O monstro carmesim da piscina-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=fbf2bc57f6caf4cc
+#EXTINF:-1 tvg-logo="https://goo.gl/2Y5stt" group-title="DESENHOS",Aquaman – Dublado – Episódio 11 – O dragão de gelo
+http://www.blogger.com/video-play.mp4?contentId=70464a5ab1d3e18e 
+#EXTINF:-1 tvg-logo="https://goo.gl/2Y5stt" group-title="DESENHOS",Aquaman – Dublado – Episódio 12 – Os Drillers mortais 
+http://www.blogger.com/video-play.mp4?contentId=dbd6cb5e27d2c298
+#EXTINF:-1 tvg-logo="https://goo.gl/2Y5stt" group-title="DESENHOS",Aquaman – Dublado – Episódio 13 – Vassa, rainha do The Mermen 
+http://www.blogger.com/video-play.mp4?contentId=75ec49e143c070b3
+#EXTINF:-1 tvg-logo="https://goo.gl/2Y5stt" group-title="DESENHOS",Aquaman – Dublado – Episódio 14 – Os monstros microscópicos 
+http://www.blogger.com/video-play.mp4?contentId=9295481c5e5edaad
+#EXTINF:-1 tvg-logo="https://goo.gl/2Y5stt" group-title="DESENHOS",Aquaman – Dublado – Episódio 15 – O ataque do Octomen 
+http://www.blogger.com/video-play.mp4?contentId=d9898b5ec6f6447a
+#EXTINF:-1 tvg-logo="https://goo.gl/2Y5stt" group-title="DESENHOS",Aquaman – Dublado – Episódio 16 – Traiçoeiro é o torpedeiro
+http://www.blogger.com/video-play.mp4?contentId=84ce24b429899813 
+#EXTINF:-1 tvg-logo="https://goo.gl/2Y5stt" group-title="DESENHOS",Aquaman – Dublado – Episódio 17 – Os satânicos Saturnianos 
+http://www.blogger.com/video-play.mp4?contentId=1ae5fc34aa56b727
+#EXTINF:-1 tvg-logo="https://goo.gl/2Y5stt" group-title="DESENHOS",Aquaman – Dublado – Episódio 18 – O cérebro, o bravo e o bold (realce) 
+http://www.blogger.com/video-play.mp4?contentId=ed0f6688090072c1
+#EXTINF:-1 tvg-logo="https://goo.gl/2Y5stt" group-title="DESENHOS",Aquaman – Dublado – Episódio 19 – Onde se esconde o pescador 
+http://www.blogger.com/video-play.mp4?contentId=89f4d78e0c01138a
+#EXTINF:-1 tvg-logo="https://goo.gl/2Y5stt" group-title="DESENHOS",Aquaman – Dublado – Episódio 20 – O Trio de Terror 
+http://www.blogger.com/video-play.mp4?contentId=538551a9897c546e
+#EXTINF:-1 tvg-logo="https://goo.gl/2Y5stt" group-title="DESENHOS",Aquaman – Dublado – Episódio 21 – Mephisto Marauders marinho 
+http://www.blogger.com/video-play.mp4?contentId=a98c8370f02f07ac
+#EXTINF:-1 tvg-logo="https://goo.gl/2Y5stt" group-title="DESENHOS",Aquaman – Dublado – Episódio 22 – A garra, o Magneto e o Torp 
+http://www.blogger.com/video-play.mp4?contentId=ff8e88e9c591c490
+#EXTINF:-1 tvg-logo="https://goo.gl/2Y5stt" group-title="DESENHOS",Aquaman – Dublado – Episódio 23 – Golias do mar profundo desfiladeiro 
+http://www.blogger.com/video-play.mp4?contentId=202f29b9c0202582
+#EXTINF:-1 tvg-logo="https://goo.gl/2Y5stt" group-title="DESENHOS",Aquaman – Dublado – Episódio 24 – O Banzé mar sinistro 
+http://www.blogger.com/video-play.mp4?contentId=233937451320e7ea
+#EXTINF:-1 tvg-logo="https://goo.gl/2Y5stt" group-title="DESENHOS",Aquaman – Dublado – Episódio 25 – O peixe-diabo 
+http://www.blogger.com/video-play.mp4?contentId=bc8d6de36c556f22
+#EXTINF:-1 tvg-logo="https://goo.gl/2Y5stt" group-title="DESENHOS",Aquaman – Dublado – Episódio 26 – Os catadores de mar 
+http://www.blogger.com/video-play.mp4?contentId=6707d0dd5586d019
+#EXTINF:-1 tvg-logo="https://goo.gl/2Y5stt" group-title="DESENHOS",Aquaman – Dublado – Episódio 27 – No Capitão ‘ garras do Cuda 
+http://www.blogger.com/video-play.mp4?contentId=bfc7a2335ea56a32
+#EXTINF:-1 tvg-logo="https://goo.gl/2Y5stt" group-title="DESENHOS",Aquaman – Dublado – Episódio 28 – O feiticeiro do mar 
+http://www.blogger.com/video-play.mp4?contentId=d9585007a24bb9ea
+#EXTINF:-1 tvg-logo="https://goo.gl/2Y5stt" group-title="DESENHOS",Aquaman – Dublado – Episódio 29 – O homem do espelho do planeta Imago
+http://www.blogger.com/video-play.mp4?contentId=708ebcf015f2f1d1 
+#EXTINF:-1 tvg-logo="https://goo.gl/2Y5stt" group-title="DESENHOS",Aquaman – Dublado – Episódio 30 – As armadilhas do mar do Capitão manhoso
+http://www.blogger.com/video-play.mp4?contentId=a53d194bbf2e5688
+#EXTINF:-1 tvg-logo="https://goo.gl/2bYtHn" group-title="DESENHOS",A Familia Urso – Dublado – Episódio 00 – Jantar De Aniversário 
+http://www.blogger.com/video-play.mp4?contentId=903fb145fd5caf3d
+#EXTINF:-1 tvg-logo="https://goo.gl/2bYtHn" group-title="DESENHOS",A Familia Urso – Dublado – Episódio 01 – Serviço Caseiro 
+http://www.blogger.com/video-play.mp4?contentId=ec956a2c10a00c43
+#EXTINF:-1 tvg-logo="https://goo.gl/2bYtHn" group-title="DESENHOS",A Familia Urso – Dublado – Episódio 02 – A Sogra De Charlie
+http://www.blogger.com/video-play.mp4?contentId=41a9403d63be1c78 
+#EXTINF:-1 tvg-logo="https://goo.gl/2bYtHn" group-title="DESENHOS",A Familia Urso – Dublado – Episódio 03 – Um Ganso Choco 
+http://www.blogger.com/video-play.mp4?contentId=3040b9e342c8480e
+#EXTINF:-1 tvg-logo="https://goo.gl/2bYtHn" group-title="DESENHOS",A Familia Urso – Dublado – Episódio 04 – Os Ovos De Ouro 
+http://www.blogger.com/video-play.mp4?contentId=82b6f21ebc9acc0a
+#EXTINF:-1 tvg-logo="https://goo.gl/2bYtHn" group-title="DESENHOS",A Familia Urso – Dublado – Episódio 05 – Os Ovos De Ouro 
+http://www.blogger.com/video-play.mp4?contentId=ac53a9d19cacfff2
+#EXTINF:-1 tvg-logo="https://goo.gl/2bYtHn" group-title="DESENHOS",A Familia Urso – Dublado – Episódio 06 – O Desastrado No Telhado
+http://www.blogger.com/video-play.mp4?contentId=5053de5848fce3ab 
+#EXTINF:-1 tvg-logo="https://goo.gl/2bYtHn" group-title="DESENHOS",A Familia Urso – Dublado – Episódio 07 – Mas Que Hospede
+http://www.blogger.com/video-play.mp4?contentId=36a296994c5bdf0b 
+#EXTINF:-1 tvg-logo="https://goo.gl/2bYtHn" group-title="DESENHOS",A Familia Urso – Dublado – Episódio 08 – Davi Grilo 
+http://www.blogger.com/video-play.mp4?contentId=acfbe41c7c4f8c9c"
+#EXTINF:-1 tvg-logo="https://goo.gl/2bYtHn" group-title="DESENHOS",A Familia Urso – Dublado – Episódio 09 – O Veterano 
+http://www.blogger.com/video-play.mp4?contentId=d77cdf12f1b7c5dd
+#EXTINF:-1 tvg-logo="https://goo.gl/2bYtHn" group-title="DESENHOS",A Familia Urso – Dublado – Episódio 10 – Janelas Limpas 
+http://www.blogger.com/video-play.mp4?contentId=a339772495346895
+#EXTINF:-1 tvg-logo="https://goo.gl/2bYtHn" group-title="DESENHOS",A Familia Urso – Dublado – Episódio 11 – Caçador De Ratos 
+http://www.blogger.com/video-play.mp4?contentId=898572d8dd5f35a7
+#EXTINF:-1 tvg-logo="https://goo.gl/2bYtHn" group-title="DESENHOS",A Familia Urso – Dublado – Episódio 12 – O Que é Que Há com o Seu Peru 
+http://www.blogger.com/video-play.mp4?contentId=a05b65624b166c03
+#EXTINF:-1 tvg-logo="https://goo.gl/2bYtHn" group-title="DESENHOS",A Familia Urso – Dublado – Episódio 13 – Nunca Desperdice Um Dia De Sol 
+http://www.blogger.com/video-play.mp4?contentId=650f73e4cd0e0264
+#EXTINF:-1 tvg-logo="https://goo.gl/2bYtHn" group-title="DESENHOS",A Familia Urso – Dublado – Episódio 14 – Assim Não Há Carpete Que Aguente 
+http://www.blogger.com/video-play.mp4?contentId=15f5dd9d55c5aeb9
+#EXTINF:-1 tvg-logo="https://goo.gl/2bYtHn" group-title="DESENHOS",A Familia Urso – Dublado – Episódio 15 – Marmota á Marmota 
+http://www.blogger.com/video-play.mp4?contentId=9be72f4e5afb04b
+#EXTINF:-1 tvg-logo="https://goo.gl/2bYtHn" group-title="DESENHOS",A Familia Urso – Dublado – Episódio 16 – Ursulão Vai Acampar 
+http://www.blogger.com/video-play.mp4?contentId=ef61eab2fc974bec
+#EXTINF:-1 tvg-logo="https://goo.gl/2bYtHn" group-title="DESENHOS",A Familia Urso – Dublado – Episódio 17 – Fique Frio Ursulão 
+http://www.blogger.com/video-play.mp4?contentId=fbd2461b36a1a703
+#EXTINF:-1 tvg-logo="https://goo.gl/2bYtHn" group-title="DESENHOS",A Familia Urso – Dublado – Episódio 18 – Água Quente Para O Ursulão 
+http://www.blogger.com/video-play.mp4?contentId=6064c18dfada364f
+#EXTINF:-1 tvg-logo="https://goo.gl/2bYtHn" group-title="DESENHOS",A Familia Urso – Dublado – Episódio 19 – O Golfe Clássico De Ursulão 
+http://www.blogger.com/video-play.mp4?contentId=e1c48a8490fd807a
+#EXTINF:-1 tvg-logo="https://goo.gl/2bYtHn" group-title="DESENHOS",A Familia Urso – Dublado – Episódio 20 – Ursulão O Trapalhão 
+http://www.blogger.com/video-play.mp4?contentId=8b4dba80adb4e23a
+#EXTINF:-1 tvg-logo="https://goo.gl/2bYtHn" group-title="DESENHOS",A Familia Urso – Dublado – Episódio 21 – Ursulão O Manda Chuva 
+http://www.blogger.com/video-play.mp4?contentId=3f7e083e8f4f5fa9
+#EXTINF:-1 tvg-logo="https://goo.gl/2bYtHn" group-title="DESENHOS",A Familia Urso – Dublado – Episódio 22 – Construtor Trapalhão 
+http://www.blogger.com/video-play.mp4?contentId=e9e74624e520ddc6
+#EXTINF:-1 tvg-logo="https://goo.gl/2bYtHn" group-title="DESENHOS",A Familia Urso – Dublado – Episódio 23 – O Cãozinho Do Patrão 
+http://www.blogger.com/video-play.mp4?contentId=ece345ddab726d1e
+#EXTINF:-1 tvg-logo="https://goo.gl/2bYtHn" group-title="DESENHOS",A Familia Urso – Dublado – Episódio 24 – Ursulão Sabe Fazer 
+http://www.blogger.com/video-play.mp4?contentId=c61732abb6a9cb2c
+#EXTINF:-1 tvg-logo="https://goo.gl/2bYtHn" group-title="DESENHOS",A Familia Urso – Dublado – Episódio 25 – Peixinhos e Ursões 
+http://www.blogger.com/video-play.mp4?contentId=b1c6ba4bfd0fca76
+#EXTINF:-1 tvg-logo="https://goo.gl/2bYtHn" group-title="DESENHOS",A Familia Urso – Dublado – Episódio 26 – Vá Embora, Chuva 
+http://www.blogger.com/video-play.mp4?contentId=77f1d83f79f03154
+#EXTINF:-1 tvg-logo="https://goo.gl/2bYtHn" group-title="DESENHOS",A Familia Urso – Dublado – Episódio 27 – Um Dia Azarado
+http://www.blogger.com/video-play.mp4?contentId=30cef0ed090178ac
+#EXTINF:-1 tvg-logo="https://goo.gl/9aTx9q" group-title="DESENHOS",A ARCA DO ZÉ COLMÉIA – DUBLADO – EPISÓDIO 01 – SR. INVEJOSO (MR. BIGOT)
+http://www.blogger.com/video-play.mp4?contentId=c4bc03203e4f9797
+#EXTINF:-1 tvg-logo="https://goo.gl/9aTx9q" group-title="DESENHOS",A Arca Do Zé Colméia – Dublado – Episódio 02 – O Gênio Insaciável
+http://www.blogger.com/video-play.mp4?contentId=163bce23711129f
+#EXTINF:-1 tvg-logo="https://goo.gl/9aTx9q" group-title="DESENHOS",A ARCA DO ZÉ COLMÉIA – DUBLADO – EPISÓDIO 03 – SR. TRAVESSO (MR. PRANKSTER)
+http://www.blogger.com/video-play.mp4?contentId=5a513350021ad868
+#EXTINF:-1 tvg-logo="https://goo.gl/9aTx9q" group-title="DESENHOS",A Arca Do Zé Colméia – Dublado – Episódio 04 – Sr. Mentiroso (Mr. Fibber)
+http://www.blogger.com/video-play.mp4?contentId=763573214bea442e
+#EXTINF:-1 tvg-logo="https://goo.gl/9aTx9q" group-title="DESENHOS",A Arca Do Zé Colméia – Dublado – Episódio 05 – Bruxa da Fofoca (Gossipy Witch)
+http://www.blogger.com/video-play.mp4?contentId=90de3bafad2b6c7c
+#EXTINF:-1 tvg-logo="https://goo.gl/9aTx9q" group-title="DESENHOS",A Arca Do Zé Colméia – Dublado – Episódio 06 – Sr. Sujo (Mr. Sloppy) 
+http://www.blogger.com/video-play.mp4?contentId=7576d4e3361b66b4
+#EXTINF:-1 tvg-logo="https://goo.gl/9aTx9q" group-title="DESENHOS",A ARCA DO ZÉ COLMÉIA – DUBLADO – EPISÓDIO 07 – SR. TRAPACEIRO (MR. CHEATER)
+http://www.blogger.com/video-play.mp4?contentId=d29786f3fa6d6142
+#EXTINF:-1 tvg-logo="https://goo.gl/9aTx9q" group-title="DESENHOS",A ARCA DO ZÉ COLMÉIA – DUBLADO – EPISÓDIO 08 – SR. DESPERDÍCIO (MR. WASTE)
+http://www.blogger.com/video-play.mp4?contentId=dc1851436613e547
+#EXTINF:-1 tvg-logo="https://goo.gl/9aTx9q" group-title="DESENHOS",A Arca Do Zé Colméia – Dublado – Episódio 09 – Sr. Vândalo (Mr. Vandal)
+http://www.blogger.com/video-play.mp4?contentId=ab515a970612e94a
+#EXTINF:-1 tvg-logo="https://goo.gl/9aTx9q" group-title="DESENHOS",A ARCA DO ZÉ COLMÉIA – DUBLADO – EPISÓDIO 10 – O SHEIK DO EGOÍSMO (THE SHEIK OF SELFISHNESS)
+http://www.blogger.com/video-play.mp4?contentId=3da3e8cbf48bb609
+#EXTINF:-1 tvg-logo="https://goo.gl/9aTx9q" group-title="DESENHOS",A ARCA DO ZÉ COLMÉIA – DUBLADO – EPISÓDIO 11 – SR. FUMAÇA (MR. SMOG) 
+http://www.blogger.com/video-play.mp4?contentId=e324e60c672510a1
+#EXTINF:-1 tvg-logo="https://goo.gl/9aTx9q" group-title="DESENHOS",A ARCA DO ZÉ COLMÉIA – DUBLADO – EPISÓDIO 12 – A FAZ SUJEIRA (LOTTA LITTER)
+http://www.blogger.com/video-play.mp4?contentId=27cec47ed81617d3
+#EXTINF:-1 tvg-logo="https://goo.gl/9aTx9q" group-title="DESENHOS",A ARCA DO ZÉ COLMÉIA – DUBLADO – EPISÓDIO 13 – OS IRMÃOS INVEJA (THE ENVY BROTHERS)
+http://www.blogger.com/video-play.mp4?contentId=725b5defe40f76ed
+#EXTINF:-1 tvg-logo="https://goo.gl/9aTx9q" group-title="DESENHOS",A ARCA DO ZÉ COLMÉIA – DUBLADO – EPISÓDIO 14 – CAPITÃO BRIGÃO (CAPTAIN SWIPE) 
+http://www.blogger.com/video-play.mp4?contentId=12dd4a32562e4231
+#EXTINF:-1 tvg-logo="https://goo.gl/9aTx9q" group-title="DESENHOS",A ARCA DO ZÉ COLMÉIA – DUBLADO – EPISÓDIO 15 – SR. CABEÇA-QUENTE (MR. HOTHEAD)
+http://www.blogger.com/video-play.mp4?contentId=9a473a7b29357f99
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Dublado – Episódio 01 – Lá Vai A Triônica
+http://www.blogger.com/video-play.mp4?contentId=f4582bd401b4e0d3
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Dublado – Episódio 02 – O Monstro De Crankenshaft
+http://www.blogger.com/video-play.mp4?contentId=e3444b5f65f52a16
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Dublado – Episódio 03 – Uma Formiga De Briga
+http://www.blogger.com/video-play.mp4?contentId=dbef9ed736e62483
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Dublado – Episódio 04 – A Pulga Feroz
+http://www.blogger.com/video-play.mp4?contentId=114d8949c97b2569
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Dublado – Episódio 05 – O Robô Errante
+http://www.blogger.com/video-play.mp4?contentId=721fc439e00c29e0
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Dublado – Episódio 06 – Quem É O Trouxa
+http://www.blogger.com/video-play.mp4?contentId=9540f21f57138ac5
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Dublado – Episódio 07 – A Formiga Atômica E O Karatê
+http://www.blogger.com/video-play.mp4?contentId=44244696538e4428
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Dublado – Episódio 08 – A Formiga Mais Rápida Do Oeste
+http://www.blogger.com/video-play.mp4?contentId=64dbee808682e2e4
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Dublado – Episódio 09 – Identidades Trocadas
+http://www.blogger.com/video-play.mp4?contentId=64d1a132cace6f31
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Dublado – Episódio 10 – Perigo É Comigo
+http://www.blogger.com/video-play.mp4?contentId=b50949f2842e6503
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Dublado – Episódio 11 – Golpe De Mestre
+http://www.blogger.com/video-play.mp4?contentId=9b32e027fe069333
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Dublado – Episódio 12 – Se Precisar é Só Chamar!
+http://www.blogger.com/video-play.mp4?contentId=d26f2485552e4f34
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Dublado – Episódio 13 – Com Toda A Força
+http://www.blogger.com/video-play.mp4?contentId=567a6953b84eeaee
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Dublado – Episódio 14 – Formigas Selvagens
+http://www.blogger.com/video-play.mp4?contentId=1b062320072ce548
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Dublado – Episódio 15 – Em Defesa Da Lei
+http://www.blogger.com/video-play.mp4?contentId=9da433147f6f6c6
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Dublado – Episódio 16 – O Caso Do Parque De Diversões
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Dublado – Episódio 17 – Tamanho Não é Documento
+http://www.blogger.com/video-play.mp4?contentId=38a70d582ba81de1
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Dublado – Episódio 18 – Deixe Esse Cupim Prá Mim
+http://www.blogger.com/video-play.mp4?contentId=18a147d4fdbe7029
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Dublado – Episódio 19 – A Regra Do Jogo
+http://www.blogger.com/video-play.mp4?contentId=5bfdd79a8b7c92c3
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Dublado – Episódio 20 – Rumo Ao Oeste
+http://www.blogger.com/video-play.mp4?contentId=1c539bed6ad4bd51
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Dublado – Episódio 21 – Que Formiga Valente!
+http://www.blogger.com/video-play.mp4?contentId=3d1db4fbeb8c6668
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Dublado – Episódio 22 – Dando Sopa
+http://www.blogger.com/video-play.mp4?contentId=c570a9b61d816a57
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Dublado – Episódio 23 – Tudo Pelos Ares
+http://www.blogger.com/video-play.mp4?contentId=8bd573cbd3136cf2
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Dublado – Episódio 24 – Me Aparece Cada Uma!
+http://www.blogger.com/video-play.mp4?contentId=1a1ecdedfa718df5
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Dublado – Episódio 25 – O Gorila Matador
+http://www.blogger.com/video-play.mp4?contentId=c828d47c442419d8
+#EXTINF:-1 tvg-logo="https://goo.gl/WCNJ6R" group-title="DESENHOS",A Formiga Atómica Dublado – Episódio 26 – A Mim Você Não Assusta
+http://www.blogger.com/video-play.mp4?contentId=97d2c912aa085d2b
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva (DUBLADO) – Episódio 01 – Havaí: A Turma Vem Aí
+http://www.blogger.com/video-play.mp4?contentId=804e7072191f1a6a
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva (DUBLADO) – Episódio 02 – O Opulento Marajá
+http://www.blogger.com/video-play.mp4?contentId=7c5210971b472c5f
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva (DUBLADO) – Episódio 03 – Jazz Infernal
+http://www.blogger.com/video-play.mp4?contentId=9a0650ea0dc572e
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva (DUBLADO) – Episódio 04 – Corridas E Correrias
+http://www.blogger.com/video-play.mp4?contentId=514679fdaf94418a
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva (DUBLADO) – Episódio 05 – Arranhador De Violinos
+http://www.blogger.com/video-play.mp4?contentId=3238cb636b38c479
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS"DESENHOS",A Turma do Manda Chuva (DUBLADO) – Episódio 06 – Testamento De Um Excêntrico
+http://www.blogger.com/video-play.mp4?contentId=26b0ab4b44815a54
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva (DUBLADO) – Episódio 07 – Amor A Quando Me Levas
+http://www.blogger.com/video-play.mp4?contentId=6e5b386534e6557
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva (DUBLADO) – Episódio 08 – Meu Filho, Meu Orgulho
+http://www.blogger.com/video-play.mp4?contentId=a0e7d4d9c95e4a45
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva (DUBLADO) – Episódio 09 – Um Filme Realista
+http://www.blogger.com/video-play.mp4?contentId=4cd2c8ac801aba02
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva (DUBLADO) – Episódio 10 – Que Rei Sou Eu?
+http://www.blogger.com/video-play.mp4?contentId=a2049c69224429ff
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva (DUBLADO) – Episódio 11 – Quando O Coração Dispara
+http://www.blogger.com/video-play.mp4?contentId=c952acbdaf4f5063
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva (DUBLADO) – Episódio 12 – Um Diamante A Todo Preço
+http://www.blogger.com/video-play.mp4?contentId=f1eaae05552254f8
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva (DUBLADO) – Episódio 13 – Um Presente Passado
+http://www.blogger.com/video-play.mp4?contentId=b6faf156f021f690
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva (DUBLADO) – Episódio 14 – Cheque Mate
+http://www.blogger.com/video-play.mp4?contentId=c686819bdc3b3747
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva (DUBLADO) – Episódio 15 – Inverno Um Tanto Quente
+http://www.blogger.com/video-play.mp4?contentId=9a8e4cef046fe709
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva (DUBLADO) – Episódio 16 – Um Menor Entre Os Maiores
+http://www.blogger.com/video-play.mp4?contentId=fc615d133b16f7d9
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva (DUBLADO) – Episódio 17 – A Mascote Do Convescote
+http://www.blogger.com/video-play.mp4?contentId=d0bcab20ac5c0677
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva (DUBLADO) – Episódio 18 – Reformadores Conservadores
+http://www.blogger.com/video-play.mp4?contentId=9c06b316345f4451
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva (DUBLADO) – Episódio 19 – Turistas E Vigaristas
+http://www.blogger.com/video-play.mp4?contentId=8bca6b03e8a9bdd2
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva (DUBLADO) – Episódio 20 – Arte E Artes
+http://www.blogger.com/video-play.mp4?contentId=8bca6b03e8a9bdd2
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva (DUBLADO) – Episódio 21 – O Involuntário Do Espaço
+http://www.blogger.com/video-play.mp4?contentId=65358885a62fdca6
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva (DUBLADO) – Episódio 22 – O Finado Manda-Chuva
+http://www.blogger.com/video-play.mp4?contentId=6bfe59cd6b22cfca
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva (DUBLADO) – Episódio 23 – Parabéns Para Você
+http://www.blogger.com/video-play.mp4?contentId=88b7f882cbc46dc1
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva (DUBLADO) – Episódio 24 – Alguém Está Caduco
+http://www.blogger.com/video-play.mp4?contentId=441b2f93367ef775
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva (DUBLADO) – Episódio 25 – Rei Por Um Dia
+http://www.blogger.com/video-play.mp4?contentId=f1f455beb0733e39
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva (DUBLADO) – Episódio 26 – O Sentenciado
+http://www.blogger.com/video-play.mp4?contentId=8627c00ba445a69e
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva (DUBLADO) – Episódio 27 – Batendo O Record
+http://www.blogger.com/video-play.mp4?contentId=297f91927a7cf34a
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva (DUBLADO) – Episódio 28 – Contando Vantagem
+http://www.blogger.com/video-play.mp4?contentId=c4cdcacbd94a6cd
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva (DUBLADO) – Episódio 29 – Turma Atrapalhada
+http://www.blogger.com/video-play.mp4?contentId=40e423b740033a6c
+#EXTINF:-1 tvg-logo="https://goo.gl/sKSc4b" group-title="DESENHOS",A Turma do Manda Chuva (DUBLADO) – Episódio 30 – Eu E O Outro
+http://www.blogger.com/video-play.mp4?contentId=713a1371319401fe
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 01 – A Pantera Pinta o Sete 
+http://www.blogger.com/video-play.mp4?contentId=d5b9a3206dc0822c
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 02 – A Pantera de Pijama 
+http://www.blogger.com/video-play.mp4?contentId=f30a7d608cdc0b6b
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 03 – Pantera na Loja de Departamento 
+http://www.blogger.com/video-play.mp4?contentId=a545ea16e77013e0
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 04 – Disque “P” para Pantera
+http://www.blogger.com/video-play.mp4?contentId=182a23021c7c6a15 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 05 – A Arca da Pantera Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=429556756acc150e
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 06 – A Pantera e o Bêbado 
+http://www.blogger.com/video-play.mp4?contentId=9a9815bf123f080c
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 07 – Agente Secreto Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=7786c066bce2f769
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 08 – Pantera em Choque 
+http://www.blogger.com/video-play.mp4?contentId=fc5dbedb9e424d22
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 09 – Diamantes da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=ee6f55bf0923a949
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 10 – A Pantera e a Mosca 
+http://www.blogger.com/video-play.mp4?contentId=7e2d3da3ab400f0
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 11 – Guerra de Vizinhos 
+http://www.blogger.com/video-play.mp4?contentId=b4ffc0655e26b8d2
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 12 – A Balança que Falava Demais 
+http://www.blogger.com/video-play.mp4?contentId=813dbfcb4ba3184c
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 13 – Pantera Pescando 
+http://www.blogger.com/video-play.mp4?contentId=a30748a3d88407b3
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 14 – O Toureiro Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=77aae555759e940a
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 15 – Ponche Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=5ebb06ec7ac267fa
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 16 – Pink Pistons 
+http://www.blogger.com/video-play.mp4?contentId=83505f57b106e5a5
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 17 – Vitamina Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=8f314828f6d7a94e
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 18 – A Casa da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=e490cc21d4cef530
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 19 – O Concerto da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=d47bc55caf559267
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 20 – Sorria Pantera 
+http://www.blogger.com/video-play.mp4?contentId=f34c5119553e53e5
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 21 – A Pantera e o Rato 
+http://www.blogger.com/video-play.mp4?contentId=859a08af989e06d6
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 22 – Seja um Gênio Você Também 
+http://www.blogger.com/video-play.mp4?contentId=5eb692054c0bfea
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 23 – Super Pantera 
+http://www.blogger.com/video-play.mp4?contentId=fe8e2ff122b6c008
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 24 – Bons Sonhos Pantera 
+http://www.blogger.com/video-play.mp4?contentId=249a1b67a0cd4bcd
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 25 – Que Fria
+http://www.blogger.com/video-play.mp4?contentId=7a7578eacbe53a61 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 26 – Pantera em Pânico 
+http://www.blogger.com/video-play.mp4?contentId=ae05b9816a5a3340
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 27 – Pantera Jardineira 
+http://www.blogger.com/video-play.mp4?contentId=fa59465a202f23f9
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 28 – Sujeira Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=db2f98501b999c20
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 29 – Pantera em Forma 
+http://www.blogger.com/video-play.mp4?contentId=db2f98501b999c20
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 30 – Jato Pantera 
+http://www.blogger.com/video-play.mp4?contentId=4472a16199e6adda
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 31 – Paraíso Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=490c0db220b02cf9
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 32 – O Carona 
+http://www.blogger.com/video-play.mp4?contentId=7484a2fd8b149927
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 33 – Parabéns É Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=7484a2fd8b149927
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 34 – Pantera Pré-fabricada 
+http://www.blogger.com/video-play.mp4?contentId=c188d76e6fc05b57
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 35 – A Mão é Mais Rápida Que o Olho 
+http://www.blogger.com/video-play.mp4?contentId=5fedf361fec608c9
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 36 – Vida Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=e265586909ca5a5a
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 37 – Pantera nos Céus 
+http://www.blogger.com/video-play.mp4?contentId=d3f0aabfc849452b
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 38 – O Melhor Amigo 
+http://www.blogger.com/video-play.mp4?contentId=93f2f43d9610c171
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 39 – Pantera Psicodélica 
+http://www.blogger.com/video-play.mp4?contentId=7ae9511ddb0cde11
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 40 – Pantera Cor-de-rosa na Praia 
+http://www.blogger.com/video-play.mp4?contentId=37e2b336cb3ed2a1
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 41 – Pantera Fora-da-lei
+http://www.blogger.com/video-play.mp4?contentId=781a13370b8f10e7 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 42 – Patente Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=b1d37f78c1118100
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 43 – Sorte Não Se Joga Fora 
+http://www.blogger.com/video-play.mp4?contentId=6498dd0d71b893f0
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 44 – Tudo Por Tão Pouco
+http://www.blogger.com/video-play.mp4?contentId=7b295f790658972c
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 45 – Astrônomo Lunático 
+http://www.blogger.com/video-play.mp4?contentId=45c28db93ea4b3b6
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 46 – Valente Pantera 
+http://www.blogger.com/video-play.mp4?contentId=380f57f2fa7150c6
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 47 – Pantera em Tratamento 
+http://www.blogger.com/video-play.mp4?contentId=e38aa323b4bbcc62
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 48 – Pantera Pré-histórica 
+http://www.blogger.com/video-play.mp4?contentId=cb56f73d5f39af86
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 49 – A Pantera na Cadeia 
+http://www.blogger.com/video-play.mp4?contentId=cd0cae41fed94e01
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 50 – Disputa de Terras 
+http://www.blogger.com/video-play.mp4?contentId=573cc0c7fcc4f984
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 51 – Desejos de Pantera 
+http://www.blogger.com/video-play.mp4?contentId=7844c7aab128eaab
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 52 – Pantera no Deserto 
+http://www.blogger.com/video-play.mp4?contentId=ee1b039545b3592
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 53 – Pantera Lenhadora 
+http://www.blogger.com/video-play.mp4?contentId=17c3764a617ea299
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 54 – Entrega Especial da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=d83608db013d7c15
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 55 – A Pantera e os Impostos
+http://www.blogger.com/video-play.mp4?contentId=24f62d1c28d786d6 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 56 – Cinderela Cor-de-rosa
+http://www.blogger.com/video-play.mp4?contentId=ab23dfb7a7ab2a77 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 57 – Controle de Pragas 
+http://www.blogger.com/video-play.mp4?contentId=7ba546a3b99600c6
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 58 – Pense Duas Vezes Antes 
+http://www.blogger.com/video-play.mp4?contentId=c3b76f6e2b253840
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 59 – Pantera numa Fria 
+http://www.blogger.com/video-play.mp4?contentId=d06d05d434dbd9e4
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 60 – A Noite da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=3d95115e5f765685
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 61 – Milharal da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=f4756c5662b96a45
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 62 – Pantera em Extinção 
+http://www.blogger.com/video-play.mp4?contentId=9c70f6eb43b3d462
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 63 – Uma Mosca na Minha Casa 
+http://www.blogger.com/video-play.mp4?contentId=b5504c0ece6915f3
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 64 – Pantera Desastrada 
+http://www.blogger.com/video-play.mp4?contentId=a15522539182f500
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 65 – Pantera e a Música 
+http://www.blogger.com/video-play.mp4?contentId=83ffee48e5e03f6d
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 66 – Travessura Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=9e7ce02e3ebe0c5b
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title=",A Pantera Cor-de-Rosa – Episódio 67 – Pantera com Pulga 
+http://www.blogger.com/video-play.mp4?contentId=87e05acafe46dd62
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title=",A Pantera Cor-de-Rosa – Episódio 68 – O Furo da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=4366990b62a6415c
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 69 – A Pantera e o Gongo 
+http://www.blogger.com/video-play.mp4?contentId=6df3f8c5ed6cff5e
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 70 – Memórias da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=16d2dc438fc28b92
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 71 – Pink 8-Ball 
+http://www.blogger.com/video-play.mp4?contentId=6e89a6c4042206bb
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 72 – Pantera em Alto Mar 
+http://www.blogger.com/video-play.mp4?contentId=155c56e30c070ad0
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 73 – Pantera em Defesa das Peles 
+http://www.blogger.com/video-play.mp4?contentId=aee9548f01c65b11
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 74 – Pantera Da Vinci 
+http://www.blogger.com/video-play.mp4?contentId=98e5ddd1d0162d85
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 75 – Instrutor Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=1df5989eca1bd57f
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 76 – Salmão cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=8908df0eb1290541
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 77 – Um Quarto Para a Pantera 
+http://www.blogger.com/video-play.mp4?contentId=b011db3243565439
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 78 – Pantera na Transilvânia 
+http://www.blogger.com/video-play.mp4?contentId=d59db65236dd94d2
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 79 – Elefante Cor-de-rosa
+http://www.blogger.com/video-play.mp4?contentId=f371c5490eb3c8df 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 80 – Mantendo Nossas Florestas Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=56ca8b4500341085
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 81 – Aprenda a Voar com a Pantera 
+http://www.blogger.com/video-play.mp4?contentId=9c7077a700537ae9
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 82 – A Moda é Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=eb75f5085cd5b10
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 83 – A Vingança da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=4182b3f9450edbb8
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 84 – Aventura Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=2568f4f25b616f4
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 85 – Pantera Mística
+http://www.blogger.com/video-play.mp4?contentId=b3fab53f3f9da248 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 86 – Pantera de Arabee 
+http://www.blogger.com/video-play.mp4?contentId=d74d983856874a31
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 87 – Pantera Profissional 
+http://www.blogger.com/video-play.mp4?contentId=adf01ba824c2b160
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 88 – Flautista Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=7350c8c85328a221
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 89 – Rascunho Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=70d399233be62c57
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 90 – Sherlock Cor-de-rosa Rosa 
+http://www.blogger.com/video-play.mp4?contentId=763a5a9b69ef3c18
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 91 – Rocky Pantera 
+http://www.blogger.com/video-play.mp4?contentId=d4b7379525af6be6
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 92 – Terapia cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=389028e61e9e717d
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 93 – Fotos Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=9494aed5f4a0be6
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 94 – Fliperama Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=c7fa8ee94b1c340b
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 95 – Brinquedo Cor-de-rosa
+http://www.blogger.com/video-play.mp4?contentId=38dd4e5a6b348f41 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 96 – Trompete Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=d432d708dd9f5b71
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 97 – Pantera Chuvosa 
+http://www.blogger.com/video-play.mp4?contentId=b1e9f869ca10cd73
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 98 – Pantera Dietética 
+http://www.blogger.com/video-play.mp4?contentId=4ab8b4ed1eb20728
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 99 – Objeto Voador Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=4c54f2186f251845
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 100 – A Pantera e o Carro Monstro 
+http://www.blogger.com/video-play.mp4?contentId=927c2233f379241f
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 101 – A Pantera e o Pé de Feijão 
+http://www.blogger.com/video-play.mp4?contentId=50ad08879b8a1ae6
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 102 – Papai Pantera 
+http://www.blogger.com/video-play.mp4?contentId=cd2b79deff2de239
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 103 – O Maior Inimigo da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=ce309ca790b81fd0
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 104 – O Tesouro Escondido da Pantera
+http://www.blogger.com/video-play.mp4?contentId=7ae7e3c1c2b7d128 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 105 – Panterologista 
+http://www.blogger.com/video-play.mp4?contentId=ac7b6bb7b04d56b8
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 106 – A Pantera e os Casacos Vermelhos 
+http://www.blogger.com/video-play.mp4?contentId=f369485f9491bbc3
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 107 – Pantera Jornalista 
+http://www.blogger.com/video-play.mp4?contentId=7acac00a55aee364
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 108 – Amiguinho da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=305aeddc76aeeb98
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 109 – A Pantera de Bagdad 
+http://www.blogger.com/video-play.mp4?contentId=1e74961da2be5ad
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 110 – A Pantera e o Pirata 
+http://www.blogger.com/video-play.mp4?contentId=6fc550c1b5532b2e
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 111 – Pantera das Selvas
+http://www.blogger.com/video-play.mp4?contentId=9023f0d86022f760 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 112 – A Cauda da Pantera
+http://www.blogger.com/video-play.mp4?contentId=2a031e2a7aaad2e8 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 113 – O Sono da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=2144ef589763da21
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 114 – Pantera nas Estrelas 
+"http://www.blogger.com/video-play.mp4?contentId=676dc8be91540001
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 115 – O Café da Manhã da Pantera 
+http://www.blogger.com/video-play.mp4?contentId=52fb42d41ba41b19
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 116 – Toureiro Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=7019b9a55dbad2c6
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 117 – Pato Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=b124da41c7bf2d02
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 118 – Seguindo o Fio 
+http://www.blogger.com/video-play.mp4?contentId=c62606e7a081c71
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 119 – Pantera na Floresta 
+http://www.blogger.com/video-play.mp4?contentId=7cbb6c9f81c57598
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 120 – Pantera Magnética 
+http://www.blogger.com/video-play.mp4?contentId=16a4afa6c9870583
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 121 – A Pantera, a Vela e o Cachorro 
+http://www.blogger.com/video-play.mp4?contentId=d6766c31cd0495f
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 122 – Doutor Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=ae4dcd5f8f36dedb
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 123 – Pantera na Lavanderia 
+http://www.blogger.com/video-play.mp4?contentId=e3739c7770465db7
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 124 – Supermercado Cor-de-rosa
+http://www.blogger.com/video-play.mp4?contentId=795ca525cb2c5af6 
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 125 – A Pantera Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=d6bda98938d2f467
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 126 – Um Tiro no Escuro 
+http://www.blogger.com/video-play.mp4?contentId=17e369e720166591
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 127 – A Nova Transa da Pantera Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=d1d31e821824c492
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 128 – A Vingança da Pantera Cor-de-rosa 
+http://www.blogger.com/video-play.mp4?contentId=7ccd88b51e4800b
+#EXTINF:-1 tvg-logo="https://goo.gl/8bhCdf" group-title="DESENHOS",A Pantera Cor-de-Rosa – Episódio 129 – A Trilha da Pantera Cor-de-rosa
+http://www.blogger.com/video-play.mp4?contentId=a7a811071ca3ee8
 
 
 
