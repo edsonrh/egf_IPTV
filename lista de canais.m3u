@@ -1,5 +1,5 @@
 #EXTM3U
-############################################################################################################################## Canais Abertos
+
 #EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-logo="http://img.miptv.ws/Globo.png" grop-title="CANAIS ABERTOS",GLOBO NORDESTE
 #EXTINF:-1 tvg-id="GLOBO RIO" tvg-logo="http://img.miptv.ws/Globo.png" grop-title="CANAIS ABERTOS",GLOBO RIO
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="http://img.miptv.ws/Globo.png" grop-title="CANAIS ABERTOS",GLOBO SP
@@ -45,17 +45,11 @@
 #EXTINF:-1 type="stream" tvg-id="CANAL RURAL" tvg-logo="https://goo.gl/79ERgG" group-title="CANAIS ABERTOS",Canal Rural
 #EXTINF:-1 type="stream" tvg-id="Canção nova" tvg-logo="https://goo.gl/RPSkGj" group-title="CANAIS ABERTOS",Canção nova
 #EXTINF:-1 type="stream" tvg-id="Gazeta HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/68/TV_Gazeta_AL.png" group-title="CANAIS ABERTOS",Gazeta HD
-
-###################################################################################################################### NEWS
-
 #EXTINF:-1 tvg-id="GLOBONEWS" tvg-logo="http://img.miptv.ws/GloboNews.png" grop-title="NOTICIAS",GLOBONEWS
 #EXTINF:-1 tvg-logo="https://goo.gl/dpUYWX" group-title="NOTICIAS",Band News
 #EXTINF:-1 tvg-id="Sbt.Vale" tvg-logo="https://goo.gl/DuXJFC" group-title="NOTÍCIAS",Record News
 #EXTINF:-1 tvg-id="Sbt.Vale" tvg-logo="https://goo.gl/DuXJFC" group-title="NOTÍCIAS",Record News SC
 #EXTINF:-1 type="stream" tvg-id="BBC World" tvg-logo="https://goo.gl/RRw8eg" group-title="Notícia",BBC World News
-
-################################################################################################################# Documentarios
-
 #EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-logo="https://goo.gl/DyctLk" grop-title="DOCUMENTARIOS",ANIMAL PLANET
 #EXTINF:-1 tvg-id="HISTORY" tvg-logo="http://img.miptv.ws/History.png" grop-title="DOCUMENTARIOS",HISTORY
 #EXTINF:-1 tvg-id="H2" tvg-logo="http://img.miptv.ws/H2.png" grop-title="DOCUMENTARIOS",H2
@@ -70,8 +64,6 @@
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-logo="https://goo.gl/UF4HMj" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC 
 #EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-logo="https://goo.gl/icqGxB" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE
 #EXTINF:-1 type="stream" tvg-id="Discovery Theater HD" tvg-logo="https://goo.gl/KHQEB6" group-title="Documentario",Discovery Theater HD
-######################################################################################################################### Infantis
-
 #EXTINF:-1 type="stream" tvg-id="Disney HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" group-title="Infantil",Disney HD
 #EXTINF:-1 tvg-id="DISNEY KIDS" tvg-logo="https://goo.gl/J34Goc" group-title="INFANTIL",Discovery Kids
 #EXTINF:-1 tvg-id="DISNEY KIDS" tvg-logo="https://goo.gl/XNii1F" group-title="INFANTIL",Discovery Kids HD
@@ -84,16 +76,11 @@
 #EXTINF:-1 type="stream" tvg-id="Gloob" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_GLOOB.png" group-title="Infantil",Gloob
 #EXTINF:-1 type="stream" tvg-id="Gloob HD" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_GLOOB.png" group-title="Infantil",Gloob HD
 #EXTINF:-1 type="stream" tvg-id="Cartoon Network" tvg-logo="https://goo.gl/8PhCv1" group-title="Infantil",Cartoon Network
-
-######################################################################################################################### Filmes e Series
-
-
 #EXTINF:-1 type="stream" tvg-id="AMC" tvg-logo="" group-title="FILMES/SERIES,AMC
 #EXTINF:-1 tvg-id="FX" tvg-id="FX" tvg-logo="http://img.miptv.ws/FX.png" grop-title="FILMES/SERIES",FX
 #EXTINF:-1 tvg-id="FX HD" tvg-logo="http://img.miptv.ws/FX.png" grop-title="FILMES/SERIES",FX HD
 #EXTINF:-1 tvg-id="SONY HD" tvg-logo="http://img.miptv.ws/Canal_Sony.png" grop-title="FILMES/SERIES",SONY HD
 #EXTINF:-1 type="stream" tvg-id="Cinemax" tvg-logo="https://goo.gl/7CbTsa" group-title="Filme e Serie",Cinemax
-
 #EXTINF:-1 tvg-id="TELECINE ACTION HD" tvg-logo="http://s9.postimg.org/vd00n5o4b/telecineaction.png" group-title="FILMES/SERIES",TELECINE ACTION HD
 #EXTINF:-1 tvg-id="TNT" tvg-logo="http://s21.postimg.org/wv3r1264z/tnt.png" group-title="Filmes e Séries",TNT
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-logo="https://goo.gl/M1meJj" group-title="FILMES E SERIES", Megapix
@@ -106,10 +93,8 @@
 #EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://goo.gl/y19zNk" group-title="FILMES E SERIES",Telecine Pipoca HD
 #EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://goo.gl/RMHUX7" group-title="FILMES E SERIES",Telecine Fun
 #EXTINF:-1 tvg-id="TOUCH HD" tvg-logo="https://goo.gl/XngFPr" group-title="FILMES E SERIES",Telecine Touch HD
-
 #EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="https://goo.gl/rDX9zX" group-title="Filmes e Series",Telecine Premium
 #EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="https://goo.gl/rDX9zX" group-title="Filmes e Series",Telecine Premium HD
-
 #EXTINF:-1 type="stream" tvg-id="Fox" tvg-logo="https://espalhafactos.com/wp-content/uploads/2014/04/fox_me.png" group-title="Filme e Serie",Fox
 #EXTINF:-1 tvg-id="Fox" tvg-logo="https://goo.gl/j5xbUq" group-title="Filmes e Series",FOX HD
 #EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://goo.gl/ogY5KL" group-title="FILMES E SERIES",Telecine Cult
@@ -129,9 +114,6 @@
 #EXTINF:-1 type="stream" tvg-id="AXN HD" tvg-logo="https://goo.gl/FeBEZL" group-title="FILMES E SERIES",AXN HD
 #EXTINF:-1 type="stream" tvg-id="CANAL BRASIL HD" tvg-logo="https://goo.gl/4QBXzS" group-title="FILMES E SERIES",Canal Brasil HD
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="http://img.miptv.ws/Comedy_Central.png" grop-title="FILMES E SERIES",COMEDY CENTRAL
-
-############################################################################################  VARIEDADES
-
 #EXTINF:-1 tvg-logo="https://goo.gl/oXkeT6" group-title="VARIEDADES",Canal Brasil
 #EXTINF:-1 tvg-logo="https://goo.gl/wU1CXd" group-title="VARIEDADES",OFF HD
 #EXTINF:-1 tvg-logo="https://goo.gl/ef1FPv" group-title="VARIEDADES",E!
@@ -149,11 +131,6 @@
 #EXTINF:-1 type="stream" tvg-id="Fish TV" tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/SD_FISH_TV.png" group-title="VARIEDADES",Fish TV
 #EXTINF:-1 type="stream" tvg-id="Food Network" tvg-logo="https://goo.gl/VBTN5V" group-title="VARIEDADES",Food Network
 #EXTINF:-1 type="stream" tvg-id="Fox Life" tvg-logo="http://tudotv.tv/fotos/5807afe3ec8303344ee73b8df61bf4a9.png" group-title="Variedade",Fox Life
-
-
-############################################################################################  Esportes
-
-
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/zcwx1096x/Spor_TV.png" group-title="Esportes",SporTV
 #EXTINF:-1 tvg-id="SPORTV 2 HD" tvg-logo="https://s20.postimg.org/lomflg27h/sportv2.jpg" grop-title="ESPORTES",SPORTV 2 HD 
 #EXTINF:-1 tvg-logo="https://goo.gl/tsyebc" group-title="ESPORTES",SporTV 3
